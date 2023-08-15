@@ -1,13 +1,13 @@
 # technity-tasks
 # Introduction
 ### Why must we choose you?  
-I am xyz, I might be helpful for the club in some ways, so please select meee.....
+I am looking forward to join the club and work for it in as many as possible ways.
 ### What is your plan for the next 6 months  
-Learn as much as possible and share it.
+To constantly learn stuff fr this time.
 ### How would you contribute back to the club  
-I will do my best for the club's welfare.
+Will work towards the welfare of the club and participate in making the club on top.
 ### Do you have any feedback on the selection process  
-I think all the tasks were good.
+Selection process is good, the tasks and the time given is appreciated.
 
 # Tasks Status
 

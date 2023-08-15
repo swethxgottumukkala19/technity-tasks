@@ -10,7 +10,6 @@ Will work towards the welfare of the club and participate in making the club on 
 Selection process is good, the tasks and the time given is appreciated.
 
 # Tasks Status
-
 | Task List | Description | Status |
 | :-:       | :-:         | :-:    |
 | [Task-01]()   | Webpage | Not Completed |

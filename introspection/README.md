@@ -12,7 +12,7 @@ Selection process is good, the tasks and the time given is appreciated.
 # Tasks Status
 | Task List | Description | Status |
 | :-:       | :-:         | :-:    |
-| [Task-01]()   | Webpage | Not Completed |
+| [Task-01]()   | Webpage | Completed |
 | [Task-02]()   | Website | Not Completed |
 | [Task-03]()   | Form Validation | Not Completed |
 | [Task-04]()  | JS | Not Completed |

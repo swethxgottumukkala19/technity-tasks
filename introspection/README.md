@@ -13,7 +13,7 @@ Selection process is good, the tasks and the time given is appreciated.
 | Task List | Description | Status |
 | :-:       | :-:         | :-:    |
 | [Task-01](https://github.com/swethxgottumukkala19/technity-tasks/tree/main/task-1)   | Webpage | Completed |
-| [Task-02](https://github.com/swethxgottumukkala19/technity-tasks/tree/main/task-1)   | Website | Completed |
+| [Task-02](https://github.com/swethxgottumukkala19/technity-tasks/tree/main/task-2)   | Website | Completed |
 | [Task-03]()   | Form Validation | Not Completed |
 | [Task-04]()  | JS | Not Completed |
 | [Task-05]()   | Python | Not Completed |

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Space Explorer Registration</title>
+    <link rel="stylesheet" href="clubtask3.css">
+    <script src="clubtask3.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h2>Welcome, Future Space Explorer!</h2>
+        <form id="registrationForm">
+            <div class="form-group">
+                <label for="name">Full Name:</label>
+                <input type="text" id="name" name="name" placeholder="Enter your cosmic name" required>
+                <div class="error" id="nameError"></div>
+            </div>
+            <div class="form-group">
+                <label for="email">Space Email:</label>
+                <input type="email" id="email" name="email" placeholder="Enter your galactic email" required>
+                <div class="error" id="emailError"></div>
+            </div>
+            <div class="form-group">
+                <label for="password">Secret Passcode:</label>
+                <input type="password" id="password" name="password" placeholder="Keep your space secrets safe" required>
+                <div class="error" id="passwordError"></div>
+            </div>
+            <div class="form-group">
+                <label for="dob">Birth Date in Earth Years:</label>
+                <input type="date" id="dob" name="dob" required>
+                <div class="error" id="dobError"></div>
+            </div>
+            <div class="form-group">
+                <label for="age">Estimated Age in Cosmic Years:</label>
+                <input type="number" id="age" name="age" placeholder="How old are you in the universe?" required>
+                <div class="error" id="ageError"></div>
+            </div>
+            <div class="form-group">
+                <label>Your Gender Among Stars:</label>
+                <input type="radio" id="male" name="gender" value="male" required>
+                <label for="male">Stellar Male</label>
+                <input type="radio" id="female" name="gender" value="female" required>
+                <label for="female">Celestial Female</label>
+                <div class="error" id="genderError"></div>
+            </div>
+            <div class="form-group">
+                <label for="address">Interstellar Address:</label>
+                <textarea id="address" name="address" rows="4" placeholder="Where shall we send your cosmic rewards?" required></textarea>
+                <div class="error" id="addressError"></div>
+            </div>
+            <button type="submit">Embark on the Journey!</button>
+        </form>
+    </div>
+</body>
+</html>

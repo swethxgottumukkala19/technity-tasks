@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h3 {
+            font-family: cursive;
+            font-size: xx-large;
+            color: blueviolet;
+        }
+    </style>
+</head>
+<body>
+    <h3>Thank you! Do check out your email for the latest updates. Lets keep exploring the never less remarkable cosmotic web together!</h3>
+</body>
+</html>

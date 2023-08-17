@@ -1,0 +1,104 @@
+body {
+    font-family: "Arial", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: #ffffff;
+}
+
+.container {
+    width: 80%;
+    max-width: 540px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #1f2a46;
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: burlywood;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+.form-group {
+    margin-bottom: 25px;
+}
+
+.label {
+    font-weight: bold;
+    display: block;
+    color: #ffffff;
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="number"],
+input[type="date"],
+textarea {
+    width: 97%;
+    padding: 10px;
+    border: 1px solid #334366;
+    border-radius: 5px;
+    color: #ffffff;
+    font-size: 14px;
+    background-color: #2c3e50;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="password"]:focus,
+input[type="number"]:focus,
+input[type="date"]:focus,
+textarea:focus {
+    border-color: #e8631c;
+    outline: none;
+}
+
+input[type="radio"],
+label[for="male"],
+label[for="female"] {
+    color: #ffffff;
+}
+
+.error {
+    color: #e8631c;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+button[type="submit"] {
+    background-color: #e8631c;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+button[type="submit"]:hover {
+    background-color: #ca4e18;
+}
+
+.container button[type="submit"] {
+    width: 100%;
+}
+
+.thank-you-message {
+    text-align: center;
+    font-size: 20px;
+    color: #ffffff;
+    margin-top: 40px;
+}
+
+@media screen and (max-width: 600px) {
+    .container {
+        width: 100%;
+    }
+}

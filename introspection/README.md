@@ -14,8 +14,8 @@ Selection process is good, the tasks and the time given is appreciated.
 | :-:       | :-:         | :-:    |
 | [Task-01](https://github.com/swethxgottumukkala19/technity-tasks/tree/main/task-1)   | Webpage | Completed |
 | [Task-02](https://github.com/swethxgottumukkala19/technity-tasks/tree/main/task-2)   | Website | Completed |
-| [Task-03]()   | Form Validation | Not Completed |
-| [Task-04]()  | JS | Not Completed |
+| [Task-03](https://github.com/swethxgottumukkala19/technity-tasks/tree/main/task-3)   | Form Validation | Completed |
+| [Task-04](https://github.com/swethxgottumukkala19/technity-tasks/tree/main/task-4)  | JS | Completed |
 | [Task-05]()   | Python | Not Completed |
 | [Task-06]()   | Cinebot | Not Completed |
 | [Task-07]()   | Coding | Not Completed |

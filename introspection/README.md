@@ -1,7 +1,7 @@
 # technity-tasks
 # Introduction
-### Why must we choose you?  
-I am looking forward to join the club and work for it in as many as possible ways.
+### Interests
+I am looking forward to join the club and work for it and contribute in as many as possible ways.
 ### What is your plan for the next 6 months  
 To constantly learn stuff fr this time.
 ### How would you contribute back to the club  

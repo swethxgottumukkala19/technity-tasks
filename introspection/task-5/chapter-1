@@ -18,6 +18,6 @@
 9. We can typecast the value or a datatype to another by using the int(), float() and str() functions.
 
 10. We can't concatenate int with string. For using this expression, you have to typecaste the int 99 to string by replacing it with str(99).
-     the correct syntax must be- 'I have eaten ' + str(99) + ' burritos.'
+    the correct syntax must be- 'I have eaten ' + str(99) + ' burritos.'
     this will evaluate str(99) into '99' and concatenation will be done
 
